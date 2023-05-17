@@ -15,21 +15,6 @@
 
 
 
-     
-    
-  <h3 align="center"><a href="https://mohit-weather-app.vercel.app/"><strong>Want to see live preview »</strong></a></h3>
-   
-    
-  <p align="center"> 
-    <br />&#10023;
-    <a href="#Demo">View Demo</a>   &#10023;  
-    <a href="https://github.com/m-sehrawat/Weather-App/issues">Report Bug</a>    &#10023;
-    <a href="#Getting-Started">Getting Started</a> &#10023; <a href="#Install">Installing</a> &#10023;    
-    <a href="#Contact">Author</a> &#10023;
-  </p>
-
-
-
 <br/>
 
 
@@ -62,13 +47,6 @@ To use the app, type a name of the city and click on search/press Enter or else 
 ![weatherapp2](https://user-images.githubusercontent.com/91532881/166334796-48e0faa6-3e3c-46e5-9cd1-857da895379d.png)
 
 <br />
-
-## Demo
-
-https://user-images.githubusercontent.com/91532881/166426542-b271be2e-e7d9-4b3c-bfe7-5e9e51e26be4.mp4
-
-
-<br/>
 
 
 ## Getting Started
@@ -135,26 +113,4 @@ npm run dev
 ```
 
 
-### Tools used on this project
-
-- Visual Studio Code
-- Vite Js React Template
-
 <br/>
-
-
-
-## Contact
-
-If you want to contact me, you can reach me through below handles.
-
-[![linkedin](https://img.shields.io/badge/Mohit_Sehrawat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-sehrawat/)
-[![Twitter](https://img.shields.io/badge/Mohit_Sehrawat-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/m-sehrawat/)
-
-© 2022 Mohit Sehrawat
-
-
-
-## Show your support
-
-Give a ⭐️ if you like this project!
